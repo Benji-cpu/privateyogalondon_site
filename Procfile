@@ -1,1 +1,1 @@
-web: gunicorn test1.wsgi
+web: gunicorn privateyogalondon_site2.wsgi
